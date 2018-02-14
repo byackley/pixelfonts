@@ -1,0 +1,1 @@
+This font has a 2x3 aspect ratio and a set of semigraphics characters making it suitable for simulating a Ceefax-style Teletext display.
