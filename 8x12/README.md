@@ -7,3 +7,4 @@
 * flags.png
   * A grid of regional-flag emoji, organized by row and column running A-Z (see <https://github.com/kreativekorp/vexillo> for the grid it was based on)
   
+The .xcf files in this directory are work-in-progress versions of corresponding .png files; they should not be used for production and are only here to help the author synchronize his efforts across different machines.
