@@ -33,5 +33,5 @@ Medium-term:
 Long-term:
 * Other Indic/Asian blocks (0A-11)
 * Ethiopic/Cherokee (12-13)
-* IICore characters
+* Some reasonable subset of IICore characters
 * Hangul syllables
