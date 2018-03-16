@@ -1,7 +1,16 @@
 These are work-in-progress files to help the author synchronize across multiple computers. Please don't use anything in these in production.
 
-On the short-term plan for inclusion:
+Already in:
+* 00 (ASCII, Latin-1)
+* 01 (Latin-extended)
+* 02 (Latin-extended, IPA, spacing modifiers)
 * 03 (combining diacritics and Greek)
+* 20 (Punctuation etc.)
+* 21 (Letterlike symbols, number forms, arrows)
+* 1F0 (game symbols)
+* 1F3 (partial emoji set)
+
+On the short-term plan for inclusion:
 * 04 (Cyrillic)
 * 05 (Cyr Sup, Armenian, Hebrew)
 * 22 (Math symbols)
@@ -9,9 +18,8 @@ On the short-term plan for inclusion:
 * 24 (Control pictures, OCR, Enclosed alphanumerics)
 * 25 (Box drawing, blocks, geometric shapes)
 * 30 (CJK syms, kana)
-* 1F0 (game symbols)
 * 1F1, 1F2 (enclosed characters)
-* 1F5, 1F9 (remaining emoji blocks)
+* 1F4, 1F5, 1F6, 1F9 (remaining emoji blocks)
 
 Medium-term:
 * 06 (Arabic - need to learn more about monospace Arabic rendering)
