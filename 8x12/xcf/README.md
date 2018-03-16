@@ -7,6 +7,7 @@ Already in:
 * 03 (combining diacritics and Greek)
 * 20 (Punctuation etc.)
 * 21 (Letterlike symbols, number forms, arrows)
+* 26 (Misc. symbols)
 * 1F0 (game symbols)
 * 1F3 (partial emoji set)
 
@@ -17,6 +18,7 @@ On the short-term plan for inclusion:
 * 23 (Misc technical)
 * 24 (Control pictures, OCR, Enclosed alphanumerics)
 * 25 (Box drawing, blocks, geometric shapes)
+* 27 (Dingbats, misc math, arrows)
 * 30 (CJK syms, kana)
 * 1F1, 1F2 (enclosed characters)
 * 1F4, 1F5, 1F6, 1F9 (remaining emoji blocks)
@@ -26,7 +28,6 @@ Medium-term:
 * 09 (Devanagari, Bengali)
 * 14, 15 (Canadian)
 * 16 (Canadian, Ogham, Runic)
-* 27 (Dingbats, misc math, arrows)
 * 28 (Braille) - this seems like it could be automated easily
 
 Long-term:
