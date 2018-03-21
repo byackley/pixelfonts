@@ -29,6 +29,7 @@ Medium-term:
 * 14, 15 (Canadian)
 * 16 (Canadian, Ogham, Runic)
 * 28 (Braille) - this seems like it could be automated easily
+* 29, 2A, 2B (more symbols)
 
 Long-term:
 * Other Indic/Asian blocks (0A-11)
