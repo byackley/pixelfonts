@@ -1,0 +1,19 @@
+{
+    "name": "pixelfonts",
+    "version": "0.5.1",
+    "description": "A collection of pixel-based fonts in PNG image form, with ambitious Unicode coverage goals",
+    "keywords": [
+        "pixel", "font", "png", "unicode"
+    ],
+    "homepage": "https://github.com/byackley/pixelfonts",
+    "bugs": {
+        "url": "https://github.com/byackley/pixelfonts/issues",
+        "email": "august@fixl.co"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Ben Yackley",
+        "email": "august@fixl.co"
+    },
+    "repository": "github:byackley/pixelfonts"
+}
