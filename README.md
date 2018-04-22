@@ -11,22 +11,19 @@ All of the files are PNGs, with a transparent background and a default character
 This package will not be version 1.0 until everything I intend to be in a full release is at least in the 8x12 directory (which is where active development is happening). Until then, the minor version number is a very rough estimate of how far along the project is.
 
 Currently included:
-* 00 through 03 (Latin, IPA, Greek)
-* 20 through 24 (punctuation and assorted symbols)
-* 26 (more symbols)
+* 00 through 05 (Latin, IPA, Greek, Cyrillic, Armenian, Hebrew)
+* 20 through 26 (punctuation, geometric shapes, and assorted symbols)
 * 1F0 (game symbols)
 * 1F3, 1F4 (some of the emoji)
 
-Currently missing but in progress:
-* 04 (Cyrillic)
-* 05 (Cyrillic supplement, Armenian, and Hebrew)
-* 25 (Box drawing and other geometric shapes)
+In progress:
+* 30 (CJK symbols and Japanese kana)
+* 1F5 (more emoji)
 
 Missing but planned for short-term inclusion:
 * 27 (Dingbats, miscellaneous math and arrows)
-* 30 (CJK symbols and Japanese kana)
 * 1F1, 1F2 (enclosed characters)
-* 1F5, 1F6, 1F9 (the remaining emoji blocks)
+* 1F6, 1F9 (the remaining emoji blocks)
 
 Planned for inclusion before 1.0 release:
 * 06 (Arabic, but not until I learn more about monospaced Arabic rendering)
