@@ -12,12 +12,13 @@ This package will not be version 1.0 until everything I intend to be in a full r
 
 Currently included:
 * 00 through 05 (Latin, IPA, Greek, Cyrillic, Armenian, Hebrew)
+* 16 (last part of Canadian syllabics, Ogham, Runic)
 * 20 through 26 (punctuation, geometric shapes, and assorted symbols)
+* 30 (CJK symbols and Japanese kana)
 * 1F0 (game symbols)
 * 1F3, 1F4 (some of the emoji)
 
 In progress:
-* 30 (CJK symbols and Japanese kana)
 * 1F5 (more emoji)
 
 Missing but planned for short-term inclusion:
@@ -28,7 +29,7 @@ Missing but planned for short-term inclusion:
 Planned for inclusion before 1.0 release:
 * 06 (Arabic, but not until I learn more about monospaced Arabic rendering)
 * 09 (Devanagari and Bengali)
-* 14, 15, 16 (Canadian syllabics, plus Ogham and Runic)
+* 14, 15 (remaining Canadian syllabics)
 * 28 (Braille; this seems easy to automate)
 * 29, 2A, 2B (more symbols)
 
