@@ -16,15 +16,15 @@ Currently included:
 * 20 through 26 (punctuation, geometric shapes, and assorted symbols)
 * 30 (CJK symbols and Japanese kana)
 * 1F0 (game symbols)
-* 1F3, 1F4 (some of the emoji)
+* 1F3, 1F4, 1F5 (most of the emoji)
 
 In progress:
-* 1F5 (more emoji)
+* 32, 33 (CJK enclosed symbols and compatibility glyphs)
+* 1F6, 1F9 (the remaining emoji blocks)
 
 Missing but planned for short-term inclusion:
 * 27 (Dingbats, miscellaneous math and arrows)
 * 1F1, 1F2 (enclosed characters)
-* 1F6, 1F9 (the remaining emoji blocks)
 
 Planned for inclusion before 1.0 release:
 * 06 (Arabic, but not until I learn more about monospaced Arabic rendering)
