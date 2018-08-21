@@ -13,7 +13,7 @@ This package will not be version 1.0 until everything I intend to be in a full r
 Currently included:
 * 00 through 05 (Latin, IPA, Greek, Cyrillic, Armenian, Hebrew)
 * 16 (last part of Canadian syllabics, Ogham, Runic)
-* 20 through 26 (punctuation, geometric shapes, and assorted symbols)
+* 20 through 27 (punctuation, geometric shapes, Dingbats, and assorted symbols)
 * 30 (CJK symbols and Japanese kana)
 * 1F0 (game symbols)
 * 1F3, 1F4, 1F5 (most of the emoji)
@@ -23,7 +23,6 @@ In progress:
 * 1F6, 1F9 (the remaining emoji blocks)
 
 Missing but planned for short-term inclusion:
-* 27 (Dingbats, miscellaneous math and arrows)
 * 1F1, 1F2 (enclosed characters)
 
 Planned for inclusion before 1.0 release:
