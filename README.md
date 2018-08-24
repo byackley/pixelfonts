@@ -13,12 +13,14 @@ This package will not be version 1.0 until everything I intend to be in a full r
 Currently included:
 * 00 through 05 (Latin, IPA, Greek, Cyrillic, Armenian, Hebrew)
 * 16 (last part of Canadian syllabics, Ogham, Runic)
+* 1F (tone-marked Greek)
 * 20 through 27 (punctuation, geometric shapes, Dingbats, and assorted symbols)
 * 30 (CJK symbols and Japanese kana)
 * 1F0 (game symbols)
 * 1F3, 1F4, 1F5 (most of the emoji)
 
 In progress:
+* 2B (more miscellaneous symbols)
 * 32, 33 (CJK enclosed symbols and compatibility glyphs)
 * 1F6, 1F9 (the remaining emoji blocks)
 
@@ -26,11 +28,12 @@ Missing but planned for short-term inclusion:
 * 1F1, 1F2 (enclosed characters)
 
 Planned for inclusion before 1.0 release:
-* 06 (Arabic, but not until I learn more about monospaced Arabic rendering)
+* 06, FB, FC, FD (Arabic and its presentation forms)
 * 09 (Devanagari and Bengali)
 * 14, 15 (remaining Canadian syllabics)
+* 1D, 1E (extended phonetic and Latin stuff)
 * 28 (Braille; this seems easy to automate)
-* 29, 2A, 2B (more symbols)
+* 29, 2A, 2E (more symbols)
 
 Post-1.0 plans:
 * 0A through 11 (more Asian/Indic blocks)
@@ -41,4 +44,4 @@ Post-1.0 plans:
 * The proposed Legacy Computing block at 1FB, which is not yet actually in Unicode proper but is on the roadmap
 
 2.0 and later:
-* Smaller sizes of more than just 8x12
+* Everything else that can reasonably fit into an 8×12 block of pixels

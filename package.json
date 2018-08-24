@@ -1,6 +1,6 @@
 {
     "name": "pixelfonts",
-    "version": "0.8.1",
+    "version": "0.8.1.1",
     "description": "A collection of pixel-based fonts in PNG image form, with ambitious Unicode coverage goals",
     "keywords": [
         "pixel", "font", "png", "unicode"
