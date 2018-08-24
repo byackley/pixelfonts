@@ -15,12 +15,12 @@ Currently included:
 * 16 (last part of Canadian syllabics, Ogham, Runic)
 * 1F (tone-marked Greek)
 * 20 through 27 (punctuation, geometric shapes, Dingbats, and assorted symbols)
+* 2B (more miscellaneous symbols)
 * 30 (CJK symbols and Japanese kana)
 * 1F0 (game symbols)
 * 1F3, 1F4, 1F5 (most of the emoji)
 
 In progress:
-* 2B (more miscellaneous symbols)
 * 32, 33 (CJK enclosed symbols and compatibility glyphs)
 * 1F6, 1F9 (the remaining emoji blocks)
 
