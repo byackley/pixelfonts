@@ -15,13 +15,16 @@ Currently included:
 * 16 (last part of Canadian syllabics, Ogham, Runic)
 * 1F (tone-marked Greek)
 * 20 through 27 (punctuation, geometric shapes, Dingbats, and assorted symbols)
+* 28 (Braille)
 * 2B (more miscellaneous symbols)
 * 30 (CJK symbols and Japanese kana)
+* 33 (CJK compatibility glyphs)
 * 1F0 (game symbols)
 * 1F3, 1F4, 1F5 (most of the emoji)
+* 1FB (the proposed Legacy Computing block; will change as needed once it's in the standard)
 
 In progress:
-* 32, 33 (CJK enclosed symbols and compatibility glyphs)
+* 32 (CJK enclosed symbols)
 * 1F6, 1F9 (the remaining emoji blocks)
 
 Missing but planned for short-term inclusion:
@@ -32,7 +35,6 @@ Planned for inclusion before 1.0 release:
 * 09 (Devanagari and Bengali)
 * 14, 15 (remaining Canadian syllabics)
 * 1D, 1E (extended phonetic and Latin stuff)
-* 28 (Braille; this seems easy to automate)
 * 29, 2A, 2E (more symbols)
 
 Post-1.0 plans:
@@ -41,7 +43,6 @@ Post-1.0 plans:
 * Some reasonable subset of IICore characters (for Chinese/Kanji)
   * Note: at these small pixel sizes, most characters will be illegible, so I will only implement characters that are distinctive and commonly used.
 * Hangul syllables
-* The proposed Legacy Computing block at 1FB, which is not yet actually in Unicode proper but is on the roadmap
 
 2.0 and later:
 * Everything else that can reasonably fit into an 8×12 block of pixels
