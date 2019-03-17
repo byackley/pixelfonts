@@ -20,15 +20,16 @@ Currently included:
 * 30 (CJK symbols and Japanese kana)
 * 33 (CJK compatibility glyphs)
 * 1F0 (game symbols)
-* 1F3, 1F4, 1F5 (most of the emoji)
+* 1F1 (packed CJK character things)
+* 1F3, 1F4, 1F5, 1F6 (most of the emoji)
 * 1FB (the proposed Legacy Computing block; will change as needed once it's in the standard)
 
 In progress:
 * 32 (CJK enclosed symbols)
-* 1F6, 1F9 (the remaining emoji blocks)
+* 1F9, 1FA (the remaining emoji blocks)
 
 Missing but planned for short-term inclusion:
-* 1F1, 1F2 (enclosed characters)
+* 1F2 (enclosed characters)
 
 Planned for inclusion before 1.0 release:
 * 06, FB, FC, FD (Arabic and its presentation forms)
