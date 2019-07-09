@@ -2,7 +2,7 @@
 
 ## What are these?
 
-These are tiny monospaced pixel fonts in a variety of sizes. These top-level directories are all named after the pixel size of a single character, and the files within are named for the 256-character segment of Unicode they contain (so, for instance, 02.png in any directory will contain U+0200 through U+02FF).
+These are tiny monospaced pixel fonts in a variety of sizes. These top-level directories are all named after the pixel size of a single character, and the files within are named for the 256-character segment of Unicode they contain (so, for instance, 02.png in any directory will contain U+0200 through U+02FF). Filenames ending in _E are the emoji variants for blocks that contain both text and emoji characters (e.g. many of the U+26xx set).
 
 All of the files are PNGs, with a transparent background and a default character color of white (although emoji and other characters can be in color). This is to make them easily recolorable using a "multiply" operation.
 
@@ -16,27 +16,27 @@ Currently included:
 * 1F (tone-marked Greek)
 * 20 through 27 (punctuation, geometric shapes, Dingbats, and assorted symbols)
 * 28 (Braille)
+* 29 (supplemental arrows and math symbols)
 * 2B (more miscellaneous symbols)
 * 30 (CJK symbols and Japanese kana)
 * 33 (CJK compatibility glyphs)
 * 1F0 (game symbols)
 * 1F1 (packed CJK character things)
-* 1F3, 1F4, 1F5, 1F6 (most of the emoji)
+* 1F3, 1F4, 1F5, 1F6, 1F9 (most of the emoji)
 * 1FB (the proposed Legacy Computing block; will change as needed once it's in the standard)
 
 In progress:
 * 32 (CJK enclosed symbols)
-* 1F9, 1FA (the remaining emoji blocks)
-
-Missing but planned for short-term inclusion:
 * 1F2 (enclosed characters)
+* 1FA (the remaining emoji block)
 
 Planned for inclusion before 1.0 release:
 * 06, FB, FC, FD (Arabic and its presentation forms)
 * 09 (Devanagari and Bengali)
 * 14, 15 (remaining Canadian syllabics)
 * 1D, 1E (extended phonetic and Latin stuff)
-* 29, 2A, 2E (more symbols)
+* 2A, 2E (more symbols)
+* Some fun stuff in the Private Use Area
 
 Post-1.0 plans:
 * 0A through 11 (more Asian/Indic blocks)
