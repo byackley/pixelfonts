@@ -24,27 +24,24 @@ Currently included:
 * 33 (CJK compatibility glyphs)
 * 1F0 (game symbols)
 * 1F1 (packed CJK character things)
-* 1F3, 1F4, 1F5, 1F6, 1F9 (most of the emoji)
-* 1FB (the proposed Legacy Computing block; will change as needed once it's in the standard)
+* 1F3, 1F4, 1F5, 1F6, 1F9, 1fA (the emoji blocks, including chess symbols)
+* 1FB (the Legacy Computing block, as of the 13.0 draft currently up)
 
 In progress:
-* 32 (CJK enclosed symbols)
-* 1F2 (enclosed characters)
-* 1FA (the remaining emoji block)
-
-Planned for inclusion before 1.0 release:
-* 06, FB, FC, FD (Arabic and its presentation forms)
-* 09 (Devanagari and Bengali)
 * 14, 15 (remaining Canadian syllabics)
 * 2A, 2E (more symbols)
 * Some fun stuff in the Private Use Area
 
 Post-1.0 plans:
+* 06, FB, FC, FD (Arabic and its presentation forms)
+* 09 (Devanagari and Bengali)
 * 0A through 11 (more Asian/Indic blocks)
 * 12 and 13 (Ethiopic and Cherokee)
+* 32 (CJK enclosed symbols)
 * Some reasonable subset of IICore characters (for Chinese/Kanji)
   * Note: at these small pixel sizes, most characters will be illegible, so I will only implement characters that are distinctive and commonly used.
 * Hangul syllables
+* 1F2 (enclosed characters and kanji)
 
 2.0 and later:
 * Everything else that can reasonably fit into an 8×12 block of pixels
